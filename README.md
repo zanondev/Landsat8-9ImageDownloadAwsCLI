@@ -1,4 +1,4 @@
-# Landsat8-9ImageDownloadAwsCLI
+# LandsatImageDownloadAwsCLI
 Script to download landsat 8-9 images using aws cli
 
 
