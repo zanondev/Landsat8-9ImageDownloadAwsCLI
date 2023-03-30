@@ -10,4 +10,4 @@ ORIENTAÇÕES:
 - As bandas disponíveis são B1, B2, B3, B4, B5, B6, B7, B8, B9, B10. Informe quantas bandas deseja fazer o download, e em seguida insira cada banda por vez. Exemplo de input: B4.
 
 RUN:
-python LandsatImageDownload.py
+`python LandsatImageDownload.py`
