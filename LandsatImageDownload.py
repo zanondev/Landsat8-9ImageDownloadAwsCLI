@@ -1,7 +1,7 @@
 import os
 
 # -----------------------------------------------------------
-# Versão 1.2.0
+# v1.2.0
 # - Guidelines:
 # - Be installed and configured AWS CLI.
 # - Use only Landsat 8-9 Collection 2 Level-1 images.
